@@ -257,380 +257,6 @@
       ]
     },
     {
-      "code": "Q1",
-      "name": "Qualifications 1",
-      "nb_rows": 6,
-      "rows": [
-        {
-          "race_id": 328,
-          "driver_id": 513,
-          "team": null,
-          "best_lap_time_raw": "2:11.029",
-          "best_lap_ms": 131029,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q1.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 526,
-          "team": null,
-          "best_lap_time_raw": "2:24.957",
-          "best_lap_ms": 144957,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q1.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 554,
-          "team": null,
-          "best_lap_time_raw": "2:37.742",
-          "best_lap_ms": 157742,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q1.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 599,
-          "team": null,
-          "best_lap_time_raw": "2:01.437",
-          "best_lap_ms": 121437,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q1.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 600,
-          "team": null,
-          "best_lap_time_raw": "3:46.012",
-          "best_lap_ms": 226012,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q1.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 614,
-          "team": null,
-          "best_lap_time_raw": "3:10.436",
-          "best_lap_ms": 190436,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q1.csv"
-        }
-      ]
-    },
-    {
-      "code": "Q2",
-      "name": "Qualifications 2",
-      "nb_rows": 30,
-      "rows": [
-        {
-          "race_id": 328,
-          "driver_id": 448,
-          "team": null,
-          "best_lap_time_raw": "1:40.745",
-          "best_lap_ms": 100745,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 457,
-          "team": null,
-          "best_lap_time_raw": "1:40.144",
-          "best_lap_ms": 100144,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 478,
-          "team": null,
-          "best_lap_time_raw": "1:40.741",
-          "best_lap_ms": 100741,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 484,
-          "team": null,
-          "best_lap_time_raw": "1:37.128",
-          "best_lap_ms": 97128,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 497,
-          "team": null,
-          "best_lap_time_raw": "1:38.945",
-          "best_lap_ms": 98945,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 509,
-          "team": null,
-          "best_lap_time_raw": "1:49.318",
-          "best_lap_ms": 109318,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 512,
-          "team": null,
-          "best_lap_time_raw": "1:37.872",
-          "best_lap_ms": 97872,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 513,
-          "team": null,
-          "best_lap_time_raw": "1:39.576",
-          "best_lap_ms": 99576,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 518,
-          "team": null,
-          "best_lap_time_raw": "1:40.824",
-          "best_lap_ms": 100824,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 522,
-          "team": null,
-          "best_lap_time_raw": "1:39.233",
-          "best_lap_ms": 99233,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 526,
-          "team": null,
-          "best_lap_time_raw": "1:40.789",
-          "best_lap_ms": 100789,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 531,
-          "team": null,
-          "best_lap_time_raw": "1:38.218",
-          "best_lap_ms": 98218,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 534,
-          "team": null,
-          "best_lap_time_raw": "1:37.066",
-          "best_lap_ms": 97066,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 546,
-          "team": null,
-          "best_lap_time_raw": "1:39.329",
-          "best_lap_ms": 99329,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 554,
-          "team": null,
-          "best_lap_time_raw": "1:35.615",
-          "best_lap_ms": 95615,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 580,
-          "team": null,
-          "best_lap_time_raw": "1:45.183",
-          "best_lap_ms": 105183,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 587,
-          "team": null,
-          "best_lap_time_raw": "1:40.277",
-          "best_lap_ms": 100277,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 594,
-          "team": null,
-          "best_lap_time_raw": "1:40.337",
-          "best_lap_ms": 100337,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 595,
-          "team": null,
-          "best_lap_time_raw": "1:43.060",
-          "best_lap_ms": 103060,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 598,
-          "team": null,
-          "best_lap_time_raw": "1:40.731",
-          "best_lap_ms": 100731,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 599,
-          "team": null,
-          "best_lap_time_raw": "1:36.948",
-          "best_lap_ms": 96948,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 600,
-          "team": null,
-          "best_lap_time_raw": "1:38.195",
-          "best_lap_ms": 98195,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 603,
-          "team": null,
-          "best_lap_time_raw": "1:39.468",
-          "best_lap_ms": 99468,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 607,
-          "team": null,
-          "best_lap_time_raw": "1:36.914",
-          "best_lap_ms": 96914,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 608,
-          "team": null,
-          "best_lap_time_raw": "1:38.823",
-          "best_lap_ms": 98823,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 610,
-          "team": null,
-          "best_lap_time_raw": "1:39.035",
-          "best_lap_ms": 99035,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 612,
-          "team": null,
-          "best_lap_time_raw": "1:40.625",
-          "best_lap_ms": 100625,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 614,
-          "team": null,
-          "best_lap_time_raw": "1:42.088",
-          "best_lap_ms": 102088,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 615,
-          "team": null,
-          "best_lap_time_raw": "1:40.635",
-          "best_lap_ms": 100634,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        },
-        {
-          "race_id": 328,
-          "driver_id": 616,
-          "team": null,
-          "best_lap_time_raw": "1:38.509",
-          "best_lap_ms": 98509,
-          "position": null,
-          "year": 1979,
-          "source_name": "R0328_1979_GP15_Q3.csv"
-        }
-      ]
-    },
-    {
       "code": "WUP",
       "name": "Warm-Up",
       "nb_rows": 23,
@@ -887,6 +513,416 @@
           "year": 1979,
           "source_name": "R0328_1979_GP15_WUP.csv",
           "laps": null
+        }
+      ]
+    },
+    {
+      "code": "Q1",
+      "name": "Qualifications 1",
+      "nb_rows": 6,
+      "rows": [
+        {
+          "race_id": 328,
+          "driver_id": 513,
+          "team": null,
+          "best_lap_time_raw": "2:11.029",
+          "best_lap_ms": 131029,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q1.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 526,
+          "team": null,
+          "best_lap_time_raw": "2:24.957",
+          "best_lap_ms": 144957,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q1.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 554,
+          "team": null,
+          "best_lap_time_raw": "2:37.742",
+          "best_lap_ms": 157742,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q1.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 599,
+          "team": null,
+          "best_lap_time_raw": "2:01.437",
+          "best_lap_ms": 121437,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q1.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 600,
+          "team": null,
+          "best_lap_time_raw": "3:46.012",
+          "best_lap_ms": 226012,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q1.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 614,
+          "team": null,
+          "best_lap_time_raw": "3:10.436",
+          "best_lap_ms": 190436,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q1.csv"
+        }
+      ]
+    },
+    {
+      "code": "Q2",
+      "name": "Qualifications 2",
+      "nb_rows": 30,
+      "rows": [
+        {
+          "race_id": 328,
+          "driver_id": 448,
+          "team": null,
+          "best_lap_time_raw": "1:40.745",
+          "best_lap_ms": 100745,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 457,
+          "team": null,
+          "best_lap_time_raw": "1:40.144",
+          "best_lap_ms": 100144,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 478,
+          "team": null,
+          "best_lap_time_raw": "1:40.741",
+          "best_lap_ms": 100741,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 484,
+          "team": null,
+          "best_lap_time_raw": "1:37.128",
+          "best_lap_ms": 97128,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 497,
+          "team": null,
+          "best_lap_time_raw": "1:38.945",
+          "best_lap_ms": 98945,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 509,
+          "team": null,
+          "best_lap_time_raw": "1:49.318",
+          "best_lap_ms": 109318,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 512,
+          "team": null,
+          "best_lap_time_raw": "1:37.872",
+          "best_lap_ms": 97872,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 513,
+          "team": null,
+          "best_lap_time_raw": "1:39.576",
+          "best_lap_ms": 99576,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 518,
+          "team": null,
+          "best_lap_time_raw": "1:40.824",
+          "best_lap_ms": 100824,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 522,
+          "team": null,
+          "best_lap_time_raw": "1:39.233",
+          "best_lap_ms": 99233,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 526,
+          "team": null,
+          "best_lap_time_raw": "1:40.789",
+          "best_lap_ms": 100789,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 531,
+          "team": null,
+          "best_lap_time_raw": "1:38.218",
+          "best_lap_ms": 98218,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 534,
+          "team": null,
+          "best_lap_time_raw": "1:37.066",
+          "best_lap_ms": 97066,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 546,
+          "team": null,
+          "best_lap_time_raw": "1:39.329",
+          "best_lap_ms": 99329,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 554,
+          "team": null,
+          "best_lap_time_raw": "1:35.615",
+          "best_lap_ms": 95615,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 580,
+          "team": null,
+          "best_lap_time_raw": "1:45.183",
+          "best_lap_ms": 105183,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 587,
+          "team": null,
+          "best_lap_time_raw": "1:40.277",
+          "best_lap_ms": 100277,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 594,
+          "team": null,
+          "best_lap_time_raw": "1:40.337",
+          "best_lap_ms": 100337,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 595,
+          "team": null,
+          "best_lap_time_raw": "1:43.060",
+          "best_lap_ms": 103060,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 598,
+          "team": null,
+          "best_lap_time_raw": "1:40.731",
+          "best_lap_ms": 100731,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 599,
+          "team": null,
+          "best_lap_time_raw": "1:36.948",
+          "best_lap_ms": 96948,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 600,
+          "team": null,
+          "best_lap_time_raw": "1:38.195",
+          "best_lap_ms": 98195,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 603,
+          "team": null,
+          "best_lap_time_raw": "1:39.468",
+          "best_lap_ms": 99468,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 607,
+          "team": null,
+          "best_lap_time_raw": "1:36.914",
+          "best_lap_ms": 96914,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 608,
+          "team": null,
+          "best_lap_time_raw": "1:38.823",
+          "best_lap_ms": 98823,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 610,
+          "team": null,
+          "best_lap_time_raw": "1:39.035",
+          "best_lap_ms": 99035,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 612,
+          "team": null,
+          "best_lap_time_raw": "1:40.625",
+          "best_lap_ms": 100625,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 614,
+          "team": null,
+          "best_lap_time_raw": "1:42.088",
+          "best_lap_ms": 102088,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 615,
+          "team": null,
+          "best_lap_time_raw": "1:40.635",
+          "best_lap_ms": 100634,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
+        },
+        {
+          "race_id": 328,
+          "driver_id": 616,
+          "team": null,
+          "best_lap_time_raw": "1:38.509",
+          "best_lap_ms": 98509,
+          "position": null,
+          "laps": null,
+          "year": 1979,
+          "source_name": "R0328_1979_GP15_Q3.csv"
         }
       ]
     },
