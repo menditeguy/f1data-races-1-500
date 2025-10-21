@@ -1,199 +1,175 @@
 {
-  "race_id": 97,
-  "generated_at": "2025-10-21T10:54:52Z",
-  "schema": "v3.3",
   "drivers": [
     {
-      "driver_id": 77,
-      "team": "Cooper",
-      "best_time_ms": 251300,
-      "best_time_raw": "4:11.300",
-      "source_session": "MT",
-      "perf_pct": 105.015
-    },
-    {
-      "driver_id": 104,
-      "team": "",
-      "best_time_ms": 248200,
-      "best_time_raw": "4:08.200",
-      "source_session": "Q2",
-      "perf_pct": 103.719
-    },
-    {
-      "driver_id": 199,
-      "team": "",
-      "best_time_ms": 267400,
-      "best_time_raw": "4:27.400",
-      "source_session": "Q2",
-      "perf_pct": 111.743
-    },
-    {
-      "driver_id": 227,
-      "team": "Cooper",
-      "best_time_ms": 248300,
-      "best_time_raw": "4:08.300",
-      "source_session": "MT",
-      "perf_pct": 103.761
-    },
-    {
-      "driver_id": 242,
-      "team": "Porsche",
-      "best_time_ms": 248100,
-      "best_time_raw": "4:08.100",
-      "source_session": "MT",
-      "perf_pct": 103.677
-    },
-    {
-      "driver_id": 243,
-      "team": "BRM",
-      "best_time_ms": 247800,
-      "best_time_raw": "4:07.800",
-      "source_session": "MT",
-      "perf_pct": 103.552
-    },
-    {
-      "driver_id": 249,
-      "team": "Ferrari",
-      "best_time_ms": 241700,
-      "best_time_raw": "4:01.700",
-      "source_session": "MT",
-      "perf_pct": 101.003
-    },
-    {
-      "driver_id": 271,
-      "team": "Porsche",
-      "best_time_ms": 252000,
-      "best_time_raw": "4:12.000",
-      "source_session": "MT",
-      "perf_pct": 105.307
-    },
-    {
-      "driver_id": 272,
-      "team": "Cooper",
-      "best_time_ms": 249700,
-      "best_time_raw": "4:09.700",
-      "source_session": "MT",
-      "perf_pct": 104.346
-    },
-    {
-      "driver_id": 277,
-      "team": "",
-      "best_time_ms": 263200,
-      "best_time_raw": "4:23.200",
-      "source_session": "Q2",
-      "perf_pct": 109.987
-    },
-    {
-      "driver_id": 280,
-      "team": "",
-      "best_time_ms": 240100,
-      "best_time_raw": "4:00.100",
-      "source_session": "Q2",
-      "perf_pct": 100.334
-    },
-    {
-      "driver_id": 285,
-      "team": "",
-      "best_time_ms": 274600,
-      "best_time_raw": "4:34.600",
-      "source_session": "Q2",
-      "perf_pct": 114.751
-    },
-    {
-      "driver_id": 293,
-      "team": "BRM",
-      "best_time_ms": 246300,
-      "best_time_raw": "4:06.300",
-      "source_session": "MT",
-      "perf_pct": 102.925
-    },
-    {
       "driver_id": 294,
-      "team": "",
-      "best_time_ms": 239300,
-      "best_time_raw": "3:59.300",
-      "source_session": "Q2",
-      "perf_pct": 100.0
-    },
-    {
-      "driver_id": 299,
-      "team": "Cooper",
-      "best_time_ms": 255000,
-      "best_time_raw": "4:15.000",
-      "source_session": "MT",
-      "perf_pct": 106.561
-    },
-    {
-      "driver_id": 311,
-      "team": "",
-      "best_time_ms": 267300,
-      "best_time_raw": "4:27.300",
-      "source_session": "Q1",
-      "perf_pct": 111.701
-    },
-    {
-      "driver_id": 323,
-      "team": "Porsche",
-      "best_time_ms": 245800,
-      "best_time_raw": "4:05.800",
-      "source_session": "MT",
-      "perf_pct": 102.716
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 239300,
+      "best_raw": "3:59.300",
+      "source_session": "Q2"
     },
     {
       "driver_id": 346,
-      "team": "Ferrari",
-      "best_time_ms": 239800,
-      "best_time_raw": "3:59.800",
-      "source_session": "MT",
-      "perf_pct": 100.209
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 239800,
+      "best_raw": "3:59.800",
+      "source_session": "MT"
     },
     {
-      "driver_id": 349,
-      "team": "",
-      "best_time_ms": 260600,
-      "best_time_raw": "4:20.600",
-      "source_session": "Q2",
-      "perf_pct": 108.901
+      "driver_id": 280,
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 240100,
+      "best_raw": "4:00.100",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 249,
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 241700,
+      "best_raw": "4:01.700",
+      "source_session": "MT"
     },
     {
       "driver_id": 355,
-      "team": "Cooper",
-      "best_time_ms": 245200,
-      "best_time_raw": "4:05.200",
-      "source_session": "MT",
-      "perf_pct": 102.466
+      "team": "Yeoman Credit Racing Team/Climax",
+      "best_ms": 245200,
+      "best_raw": "4:05.200",
+      "source_session": "MT"
     },
     {
-      "driver_id": 362,
-      "team": "",
-      "best_time_ms": 259000,
-      "best_time_raw": "4:19.000",
-      "source_session": "Q2",
-      "perf_pct": 108.232
+      "driver_id": 323,
+      "team": "Porsche System Engineering",
+      "best_ms": 245800,
+      "best_raw": "4:05.800",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 293,
+      "team": "Owen Racing Organisation/Climax",
+      "best_ms": 246300,
+      "best_raw": "4:06.300",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 243,
+      "team": "Owen Racing Organisation/Climax",
+      "best_ms": 247800,
+      "best_raw": "4:07.800",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 242,
+      "team": "Porsche System Engineering",
+      "best_ms": 248100,
+      "best_raw": "4:08.100",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 104,
+      "team": "RRC Walker Racing Team/Climax",
+      "best_ms": 248200,
+      "best_raw": "4:08.200",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 227,
+      "team": "Cooper Car Company/Climax",
+      "best_ms": 248300,
+      "best_raw": "4:08.300",
+      "source_session": "MT"
     },
     {
       "driver_id": 366,
-      "team": "Cooper",
-      "best_time_ms": 249400,
-      "best_time_raw": "4:09.400",
-      "source_session": "MT",
-      "perf_pct": 104.221
+      "team": "HandL Motors/Climax",
+      "best_ms": 249400,
+      "best_raw": "4:09.400",
+      "source_session": "MT"
     },
     {
-      "driver_id": 324,
-      "team": "Lotus",
-      "best_time_ms": 257600,
-      "best_time_raw": "4:17.600",
-      "source_session": "MT",
-      "perf_pct": 107.647
+      "driver_id": 272,
+      "team": "Camoradi International/Climax",
+      "best_ms": 249700,
+      "best_raw": "4:09.700",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 77,
+      "team": "Scuderia Serenissima/Maserati",
+      "best_ms": 251300,
+      "best_raw": "4:11.300",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 271,
+      "team": "Ecurie Maarsbergen/Porsche",
+      "best_ms": 252000,
+      "best_raw": "4:12.000",
+      "source_session": "MT"
     },
     {
       "driver_id": 339,
-      "team": "Lotus",
-      "best_time_ms": 252900,
-      "best_time_raw": "4:12.900",
-      "source_session": "MT",
-      "perf_pct": 105.683
+      "team": "Team Lotus/Climax",
+      "best_ms": 252900,
+      "best_raw": "4:12.900",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 299,
+      "team": "Cooper Car Company/Climax",
+      "best_ms": 255000,
+      "best_raw": "4:15.000",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 324,
+      "team": "Team Lotus/Climax",
+      "best_ms": 257600,
+      "best_raw": "4:17.600",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 362,
+      "team": "Scuderia Centro Sud/Maserati",
+      "best_ms": 259000,
+      "best_raw": "4:19.000",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 349,
+      "team": "Equipe Nationale Belge/Climax",
+      "best_ms": 260600,
+      "best_raw": "4:20.600",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 277,
+      "team": "Privé/Climax",
+      "best_ms": 263200,
+      "best_raw": "4:23.200",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 311,
+      "team": "Equipe Nationale Belge/Climax",
+      "best_ms": 267300,
+      "best_raw": "4:27.300",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 199,
+      "team": "Scuderia Colonia/Climax",
+      "best_ms": 267400,
+      "best_raw": "4:27.400",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 285,
+      "team": "Camoradi International/Climax",
+      "best_ms": 274600,
+      "best_raw": "4:34.600",
+      "source_session": "Q2"
     }
-  ]
+  ],
+  "race_id": 97,
+  "updated_at": "2025-10-21T14:36:32.274526Z",
+  "schema": "v3.4"
 }
