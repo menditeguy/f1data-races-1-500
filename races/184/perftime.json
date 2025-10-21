@@ -1,143 +1,126 @@
 {
-  "race_id": 184,
-  "generated_at": "2025-10-21T10:54:53Z",
-  "schema": "v3.3",
   "drivers": [
     {
       "driver_id": 227,
-      "team": "",
-      "best_time_ms": 102900,
-      "best_time_raw": "1:42.900",
-      "source_session": "Q1",
-      "perf_pct": 100.0
-    },
-    {
-      "driver_id": 299,
-      "team": "",
-      "best_time_ms": 104750,
-      "best_time_raw": "1:44.750",
-      "source_session": "Q2",
-      "perf_pct": 101.798
-    },
-    {
-      "driver_id": 355,
-      "team": "",
-      "best_time_ms": 107289,
-      "best_time_raw": "1:47.290",
-      "source_session": "Q2",
-      "perf_pct": 104.265
-    },
-    {
-      "driver_id": 394,
-      "team": "",
-      "best_time_ms": 103810,
-      "best_time_raw": "1:43.810",
-      "source_session": "Q1",
-      "perf_pct": 100.884
-    },
-    {
-      "driver_id": 409,
-      "team": "Ferrari",
-      "best_time_ms": 107770,
-      "best_time_raw": "1:47.770",
-      "source_session": "MT",
-      "perf_pct": 104.733
-    },
-    {
-      "driver_id": 418,
-      "team": "",
-      "best_time_ms": 103940,
-      "best_time_raw": "1:43.940",
-      "source_session": "Q2",
-      "perf_pct": 101.011
-    },
-    {
-      "driver_id": 430,
-      "team": "",
-      "best_time_ms": 103700,
-      "best_time_raw": "1:43.700",
-      "source_session": "Q1",
-      "perf_pct": 100.777
-    },
-    {
-      "driver_id": 437,
-      "team": "",
-      "best_time_ms": 103670,
-      "best_time_raw": "1:43.670",
-      "source_session": "Q1",
-      "perf_pct": 100.748
-    },
-    {
-      "driver_id": 441,
-      "team": "Matra",
-      "best_time_ms": 105510,
-      "best_time_raw": "1:45.510",
-      "source_session": "MT",
-      "perf_pct": 102.536
-    },
-    {
-      "driver_id": 443,
-      "team": "",
-      "best_time_ms": 107229,
-      "best_time_raw": "1:47.230",
-      "source_session": "Q1",
-      "perf_pct": 104.207
+      "team": "Motor Racing Developments Ltd/Ford Cosworth",
+      "best_ms": 102900,
+      "best_raw": "1:42.900",
+      "source_session": "Q1"
     },
     {
       "driver_id": 448,
-      "team": "Brabham",
-      "best_time_ms": 103050,
-      "best_time_raw": "1:43.050",
-      "source_session": "MT",
-      "perf_pct": 100.146
+      "team": "Motor Racing Developments Ltd/Ford Cosworth",
+      "best_ms": 103050,
+      "best_raw": "1:43.050",
+      "source_session": "MT"
     },
     {
-      "driver_id": 450,
-      "team": "Brabham",
-      "best_time_ms": 108220,
-      "best_time_raw": "1:48.220",
-      "source_session": "MT",
-      "perf_pct": 105.17
+      "driver_id": 437,
+      "team": "Matra International/Ford Cosworth",
+      "best_ms": 103670,
+      "best_raw": "1:43.670",
+      "source_session": "Q1"
     },
     {
-      "driver_id": 453,
-      "team": "Matra",
-      "best_time_ms": 108260,
-      "best_time_raw": "1:48.260",
-      "source_session": "MT",
-      "perf_pct": 105.209
+      "driver_id": 430,
+      "team": "Bruce McLaren Motor Racing/Ford Cosworth",
+      "best_ms": 103700,
+      "best_raw": "1:43.700",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 394,
+      "team": "Rob Walker / Jack Durlacher Racing Team/Ford Cosworth",
+      "best_ms": 103810,
+      "best_raw": "1:43.810",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 418,
+      "team": "Gold Leaf Team Lotus/Ford Cosworth",
+      "best_ms": 103940,
+      "best_raw": "1:43.940",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 299,
+      "team": "Bruce McLaren Motor Racing/Ford Cosworth",
+      "best_ms": 104750,
+      "best_raw": "1:44.750",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 441,
+      "team": "Matra International/Ford Cosworth",
+      "best_ms": 105510,
+      "best_raw": "1:45.510",
+      "source_session": "MT"
     },
     {
       "driver_id": 462,
-      "team": "BRM",
-      "best_time_ms": 106780,
-      "best_time_raw": "1:46.780",
-      "source_session": "MT",
-      "perf_pct": 103.771
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 106780,
+      "best_raw": "1:46.780",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 443,
+      "team": "Frank Williams Racing Cars/Ford Cosworth",
+      "best_ms": 107229,
+      "best_raw": "1:47.230",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 355,
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 107289,
+      "best_raw": "1:47.290",
+      "source_session": "Q2"
     },
     {
       "driver_id": 475,
-      "team": "",
-      "best_time_ms": 107759,
-      "best_time_raw": "1:47.760",
-      "source_session": "Q2",
-      "perf_pct": 104.722
+      "team": "Gold Leaf Team Lotus/Ford Cosworth",
+      "best_ms": 107759,
+      "best_raw": "1:47.760",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 409,
+      "team": "North American Racing Team/Ferrari",
+      "best_ms": 107770,
+      "best_raw": "1:47.770",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 450,
+      "team": "Silvio Moser Racing Team/Ford Cosworth",
+      "best_ms": 108220,
+      "best_raw": "1:48.220",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 453,
+      "team": "Matra International/Ford Cosworth",
+      "best_ms": 108260,
+      "best_raw": "1:48.260",
+      "source_session": "MT"
     },
     {
       "driver_id": 325,
-      "team": "Lotus",
-      "best_time_ms": 109110,
-      "best_time_raw": "1:49.110",
-      "source_session": "MT",
-      "perf_pct": 106.035
+      "team": "Pete Lovely Volkswagen Inc./Ford Cosworth",
+      "best_ms": 109110,
+      "best_raw": "1:49.110",
+      "source_session": "MT"
     },
     {
       "driver_id": 474,
-      "team": "",
-      "best_time_ms": 112300,
-      "best_time_raw": "1:52.300",
-      "source_session": "Q2",
-      "perf_pct": 109.135
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 112300,
+      "best_raw": "1:52.300",
+      "source_session": "Q2"
     }
-  ]
+  ],
+  "race_id": 184,
+  "updated_at": "2025-10-21T14:36:32.702948Z",
+  "schema": "v3.4"
 }
