@@ -1,215 +1,189 @@
 {
-  "race_id": 56,
-  "generated_at": "2025-10-21T10:54:52Z",
-  "schema": "v3.3",
   "drivers": [
     {
       "driver_id": 25,
-      "team": "",
-      "best_time_ms": 162600,
-      "best_time_raw": "2:42.600",
-      "source_session": "Q1",
-      "perf_pct": 100.0
-    },
-    {
-      "driver_id": 194,
-      "team": "",
-      "best_time_ms": 163700,
-      "best_time_raw": "2:43.700",
-      "source_session": "Q1",
-      "perf_pct": 100.677
+      "team": "Scuderia Ferrari",
+      "best_ms": 162600,
+      "best_raw": "2:42.600",
+      "source_session": "Q1"
     },
     {
       "driver_id": 228,
-      "team": "",
-      "best_time_ms": 163400,
-      "best_time_raw": "2:43.400",
-      "source_session": "Q1",
-      "perf_pct": 100.492
+      "team": "Scuderia Ferrari",
+      "best_ms": 163400,
+      "best_raw": "2:43.400",
+      "source_session": "Q1"
     },
     {
-      "driver_id": 21,
-      "team": "Maserati",
-      "best_time_ms": 183300,
-      "best_time_raw": "3:03.300",
-      "source_session": "GRID",
-      "perf_pct": 112.731
-    },
-    {
-      "driver_id": 51,
-      "team": "Gordini",
-      "best_time_ms": 186600,
-      "best_time_raw": "3:06.600",
-      "source_session": "GRID",
-      "perf_pct": 114.76
-    },
-    {
-      "driver_id": 71,
-      "team": "Vanwall",
-      "best_time_ms": 170100,
-      "best_time_raw": "2:50.100",
-      "source_session": "GRID",
-      "perf_pct": 104.613
+      "driver_id": 194,
+      "team": "Scuderia Ferrari",
+      "best_ms": 163700,
+      "best_raw": "2:43.700",
+      "source_session": "Q1"
     },
     {
       "driver_id": 76,
-      "team": "",
-      "best_time_ms": 165400,
-      "best_time_raw": "2:45.400",
-      "source_session": "Q2",
-      "perf_pct": 101.722
-    },
-    {
-      "driver_id": 77,
-      "team": "",
-      "best_time_ms": 171600,
-      "best_time_raw": "2:51.600",
-      "source_session": "Q2",
-      "perf_pct": 105.535
-    },
-    {
-      "driver_id": 78,
-      "team": "",
-      "best_time_ms": 167000,
-      "best_time_raw": "2:47.000",
-      "source_session": "Q2",
-      "perf_pct": 102.706
+      "team": "Vandervell Products Ltd/Vanwall",
+      "best_ms": 165400,
+      "best_raw": "2:45.400",
+      "source_session": "Q2"
     },
     {
       "driver_id": 104,
-      "team": "Maserati",
-      "best_time_ms": 165500,
-      "best_time_raw": "2:45.500",
-      "source_session": "MT",
-      "perf_pct": 101.784
+      "team": "Officine Alfieri Maserati",
+      "best_ms": 165500,
+      "best_raw": "2:45.500",
+      "source_session": "MT"
     },
     {
       "driver_id": 118,
-      "team": "Maserati",
-      "best_time_ms": 165600,
-      "best_time_raw": "2:45.600",
-      "source_session": "GRID",
-      "perf_pct": 101.845
+      "team": "Officine Alfieri Maserati",
+      "best_ms": 165600,
+      "best_raw": "2:45.600",
+      "source_session": "GRID"
     },
     {
       "driver_id": 126,
-      "team": "",
-      "best_time_ms": 166000,
-      "best_time_raw": "2:46.000",
-      "source_session": "Q2",
-      "perf_pct": 102.091
+      "team": "Scuderia Ferrari",
+      "best_ms": 166000,
+      "best_raw": "2:46.000",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 78,
+      "team": "Officine Alfieri Maserati",
+      "best_ms": 167000,
+      "best_raw": "2:47.000",
+      "source_session": "Q2"
     },
     {
       "driver_id": 246,
-      "team": "",
-      "best_time_ms": 167800,
-      "best_time_raw": "2:47.800",
-      "source_session": "Q2",
-      "perf_pct": 103.198
+      "team": "Scuderia Ferrari",
+      "best_ms": 167800,
+      "best_raw": "2:47.800",
+      "source_session": "Q2"
     },
     {
-      "driver_id": 256,
-      "team": "",
-      "best_time_ms": 174600,
-      "best_time_raw": "2:54.600",
-      "source_session": "Q2",
-      "perf_pct": 107.38
+      "driver_id": 71,
+      "team": "Vandervell Products Ltd/Vanwall",
+      "best_ms": 170100,
+      "best_raw": "2:50.100",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 77,
+      "team": "Vandervell Products Ltd/Vanwall",
+      "best_ms": 171600,
+      "best_raw": "2:51.600",
+      "source_session": "Q2"
     },
     {
       "driver_id": 280,
       "team": "",
-      "best_time_ms": 171600,
-      "best_time_raw": "2:51.600",
-      "source_session": "Q2",
-      "perf_pct": 105.535
-    },
-    {
-      "driver_id": 90,
-      "team": "Maserati",
-      "best_time_ms": 182900,
-      "best_time_raw": "3:02.900",
-      "source_session": "GRID",
-      "perf_pct": 112.485
-    },
-    {
-      "driver_id": 110,
-      "team": "Gordini",
-      "best_time_ms": 193300,
-      "best_time_raw": "3:13.300",
-      "source_session": "GRID",
-      "perf_pct": 118.881
-    },
-    {
-      "driver_id": 160,
-      "team": "Maserati",
-      "best_time_ms": 174600,
-      "best_time_raw": "2:54.600",
-      "source_session": "GRID",
-      "perf_pct": 107.38
-    },
-    {
-      "driver_id": 179,
-      "team": "Connaught",
-      "best_time_ms": 179200,
-      "best_time_raw": "2:59.200",
-      "source_session": "GRID",
-      "perf_pct": 110.209
+      "best_ms": 171600,
+      "best_raw": "2:51.600",
+      "source_session": "Q2"
     },
     {
       "driver_id": 188,
-      "team": "Maserati",
-      "best_time_ms": 172700,
-      "best_time_raw": "2:52.700",
-      "source_session": "GRID",
-      "perf_pct": 106.212
+      "team": "Officine Alfieri Maserati",
+      "best_ms": 172700,
+      "best_raw": "2:52.700",
+      "source_session": "GRID"
     },
     {
-      "driver_id": 212,
-      "team": "Connaught",
-      "best_time_ms": 188100,
-      "best_time_raw": "3:08.100",
-      "source_session": "GRID",
-      "perf_pct": 115.683
+      "driver_id": 256,
+      "team": "",
+      "best_ms": 174600,
+      "best_raw": "2:54.600",
+      "source_session": "Q2"
     },
     {
-      "driver_id": 230,
-      "team": "Gordini",
-      "best_time_ms": 184800,
-      "best_time_raw": "3:04.800",
-      "source_session": "GRID",
-      "perf_pct": 113.653
-    },
-    {
-      "driver_id": 250,
-      "team": "Maserati",
-      "best_time_ms": 182600,
-      "best_time_raw": "3:02.600",
-      "source_session": "GRID",
-      "perf_pct": 112.3
-    },
-    {
-      "driver_id": 252,
-      "team": "Maserati",
-      "best_time_ms": 185000,
-      "best_time_raw": "3:05.000",
-      "source_session": "GRID",
-      "perf_pct": 113.776
-    },
-    {
-      "driver_id": 253,
-      "team": "Connaught",
-      "best_time_ms": 184300,
-      "best_time_raw": "3:04.300",
-      "source_session": "GRID",
-      "perf_pct": 113.346
+      "driver_id": 160,
+      "team": "Gilby Engineering/Maserati",
+      "best_ms": 174600,
+      "best_raw": "2:54.600",
+      "source_session": "GRID"
     },
     {
       "driver_id": 255,
-      "team": "Maserati",
-      "best_time_ms": 178400,
-      "best_time_raw": "2:58.400",
-      "source_session": "GRID",
-      "perf_pct": 109.717
+      "team": "L Piotti/Maserati",
+      "best_ms": 178400,
+      "best_raw": "2:58.400",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 179,
+      "team": "Connaught Engineering/Alta",
+      "best_ms": 179200,
+      "best_raw": "2:59.200",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 250,
+      "team": "Scuderia Guastalla/Maserati",
+      "best_ms": 182600,
+      "best_raw": "3:02.600",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 90,
+      "team": "Officine Alfieri Maserati",
+      "best_ms": 182900,
+      "best_raw": "3:02.900",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 21,
+      "team": "Scuderia Centro Sud/Maserati",
+      "best_ms": 183300,
+      "best_raw": "3:03.300",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 253,
+      "team": "Connaught Engineering/Alta",
+      "best_ms": 184300,
+      "best_raw": "3:04.300",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 230,
+      "team": "Equipe Gordini",
+      "best_ms": 184800,
+      "best_raw": "3:04.800",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 252,
+      "team": "Privé/Maserati",
+      "best_ms": 185000,
+      "best_raw": "3:05.000",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 51,
+      "team": "Equipe Gordini",
+      "best_ms": 186600,
+      "best_raw": "3:06.600",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 212,
+      "team": "Connaught Engineering/Alta",
+      "best_ms": 188100,
+      "best_raw": "3:08.100",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 110,
+      "team": "Equipe Gordini",
+      "best_ms": 193300,
+      "best_raw": "3:13.300",
+      "source_session": "GRID"
     }
-  ]
+  ],
+  "race_id": 56,
+  "updated_at": "2025-10-21T14:36:32.117382Z",
+  "schema": "v3.4"
 }
