@@ -1,63 +1,56 @@
 {
-  "race_id": 21,
-  "generated_at": "2025-10-21T10:54:52Z",
-  "schema": "v3.3",
   "drivers": [
     {
       "driver_id": 3,
-      "team": "",
-      "best_time_ms": 604400,
-      "best_time_raw": "10:04.400",
-      "source_session": "Q2",
-      "perf_pct": 100.0
+      "team": "Scuderia Ferrari",
+      "best_ms": 604400,
+      "best_raw": "10:04.400",
+      "source_session": "Q2"
     },
     {
       "driver_id": 26,
-      "team": "",
-      "best_time_ms": 607300,
-      "best_time_raw": "10:07.300",
-      "source_session": "Q2",
-      "perf_pct": 100.48
-    },
-    {
-      "driver_id": 51,
-      "team": "Gordini",
-      "best_time_ms": 625300,
-      "best_time_raw": "10:25.300",
-      "source_session": "GRID",
-      "perf_pct": 103.458
-    },
-    {
-      "driver_id": 60,
-      "team": "Veritas",
-      "best_time_ms": 656300,
-      "best_time_raw": "10:56.300",
-      "source_session": "GRID",
-      "perf_pct": 108.587
-    },
-    {
-      "driver_id": 76,
-      "team": "Ferrari",
-      "best_time_ms": 626300,
-      "best_time_raw": "10:26.300",
-      "source_session": "GRID",
-      "perf_pct": 103.623
+      "team": "Scuderia Ferrari",
+      "best_ms": 607300,
+      "best_raw": "10:07.300",
+      "source_session": "Q2"
     },
     {
       "driver_id": 77,
-      "team": "Gordini",
-      "best_time_ms": 619100,
-      "best_time_raw": "10:19.100",
-      "source_session": "GRID",
-      "perf_pct": 102.432
+      "team": "Equipe Gordini",
+      "best_ms": 619100,
+      "best_raw": "10:19.100",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 51,
+      "team": "Equipe Gordini",
+      "best_ms": 625300,
+      "best_raw": "10:25.300",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 76,
+      "team": "Scuderia Ferrari",
+      "best_ms": 626300,
+      "best_raw": "10:26.300",
+      "source_session": "GRID"
     },
     {
       "driver_id": 86,
-      "team": "Ferrari",
-      "best_time_ms": 641900,
-      "best_time_raw": "10:41.900",
-      "source_session": "GRID",
-      "perf_pct": 106.205
+      "team": "Ecurie Espadon/Ferrari",
+      "best_ms": 641900,
+      "best_raw": "10:41.900",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 60,
+      "team": "Motor-Presse-Verlag/Veritas",
+      "best_ms": 656300,
+      "best_raw": "10:56.300",
+      "source_session": "GRID"
     }
-  ]
+  ],
+  "race_id": 21,
+  "updated_at": "2025-10-21T14:36:31.989662Z",
+  "schema": "v3.4"
 }
