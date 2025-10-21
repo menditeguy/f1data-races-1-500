@@ -1,183 +1,161 @@
 {
-  "race_id": 138,
-  "generated_at": "2025-10-21T10:54:52Z",
-  "schema": "v3.3",
   "drivers": [
     {
-      "driver_id": 227,
-      "team": "Brabham/Climax",
-      "best_time_ms": 519000,
-      "best_time_raw": "8:39.000",
-      "source_session": "MT",
-      "perf_pct": 103.242
-    },
-    {
-      "driver_id": 242,
-      "team": "",
-      "best_time_ms": 517900,
-      "best_time_raw": "8:37.900",
-      "source_session": "Q2",
-      "perf_pct": 103.024
-    },
-    {
-      "driver_id": 272,
-      "team": "BRM",
-      "best_time_ms": 550600,
-      "best_time_raw": "9:10.600",
-      "source_session": "MT",
-      "perf_pct": 109.529
-    },
-    {
-      "driver_id": 293,
-      "team": "BRM",
-      "best_time_ms": 506600,
-      "best_time_raw": "8:26.600",
-      "source_session": "GRID",
-      "perf_pct": 100.776
-    },
-    {
-      "driver_id": 299,
-      "team": "Cooper/Climax",
-      "best_time_ms": 518400,
-      "best_time_raw": "8:38.400",
-      "source_session": "MT",
-      "perf_pct": 103.123
-    },
-    {
-      "driver_id": 323,
-      "team": "Brabham/Climax",
-      "best_time_ms": 506300,
-      "best_time_raw": "8:26.300",
-      "source_session": "MT",
-      "perf_pct": 100.716
-    },
-    {
       "driver_id": 339,
-      "team": "",
-      "best_time_ms": 502700,
-      "best_time_raw": "8:22.700",
-      "source_session": "Q2",
-      "perf_pct": 100.0
-    },
-    {
-      "driver_id": 355,
-      "team": "Ferrari",
-      "best_time_ms": 507100,
-      "best_time_raw": "8:27.100",
-      "source_session": "MT",
-      "perf_pct": 100.875
-    },
-    {
-      "driver_id": 362,
-      "team": "",
-      "best_time_ms": 513799,
-      "best_time_raw": "8:33.800",
-      "source_session": "Q3",
-      "perf_pct": 102.208
-    },
-    {
-      "driver_id": 363,
-      "team": "",
-      "best_time_ms": 557700,
-      "best_time_raw": "9:17.700",
-      "source_session": "Q2",
-      "perf_pct": 110.941
-    },
-    {
-      "driver_id": 394,
-      "team": "Brabham/BRM",
-      "best_time_ms": 516600,
-      "best_time_raw": "8:36.600",
-      "source_session": "MT",
-      "perf_pct": 102.765
-    },
-    {
-      "driver_id": 396,
-      "team": "",
-      "best_time_ms": 530500,
-      "best_time_raw": "8:50.500",
-      "source_session": "Q2",
-      "perf_pct": 105.53
-    },
-    {
-      "driver_id": 397,
-      "team": "",
-      "best_time_ms": 527400,
-      "best_time_raw": "8:47.400",
-      "source_session": "Q1",
-      "perf_pct": 104.913
-    },
-    {
-      "driver_id": 412,
-      "team": "",
-      "best_time_ms": 513400,
-      "best_time_raw": "8:33.400",
-      "source_session": "Q3",
-      "perf_pct": 102.129
-    },
-    {
-      "driver_id": 416,
-      "team": "",
-      "best_time_ms": 539300,
-      "best_time_raw": "8:59.300",
-      "source_session": "Q1",
-      "perf_pct": 107.281
-    },
-    {
-      "driver_id": 418,
-      "team": "",
-      "best_time_ms": 517500,
-      "best_time_raw": "8:37.500",
-      "source_session": "Q3",
-      "perf_pct": 102.944
-    },
-    {
-      "driver_id": 422,
-      "team": "",
-      "best_time_ms": 537700,
-      "best_time_raw": "8:57.700",
-      "source_session": "Q1",
-      "perf_pct": 106.962
-    },
-    {
-      "driver_id": 429,
-      "team": "",
-      "best_time_ms": 556800,
-      "best_time_raw": "9:16.800",
-      "source_session": "Q1",
-      "perf_pct": 110.762
-    },
-    {
-      "driver_id": 430,
-      "team": "Brabham/Climax",
-      "best_time_ms": 522100,
-      "best_time_raw": "8:42.100",
-      "source_session": "MT",
-      "perf_pct": 103.859
+      "team": "Team Lotus/Climax",
+      "best_ms": 502700,
+      "best_raw": "8:22.700",
+      "source_session": "Q2"
     },
     {
       "driver_id": 437,
-      "team": "",
-      "best_time_ms": 506100,
-      "best_time_raw": "8:26.100",
-      "source_session": "Q3",
-      "perf_pct": 100.676
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 506100,
+      "best_raw": "8:26.100",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 323,
+      "team": "Brabham Racing Organisation/Climax",
+      "best_ms": 506300,
+      "best_raw": "8:26.300",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 293,
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 506600,
+      "best_raw": "8:26.600",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 355,
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 507100,
+      "best_raw": "8:27.100",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 412,
+      "team": "Team Lotus/Climax",
+      "best_ms": 513400,
+      "best_raw": "8:33.400",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 362,
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 513799,
+      "best_raw": "8:33.800",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 394,
+      "team": "RRC Walker Racing Team/BRM",
+      "best_ms": 516600,
+      "best_raw": "8:36.600",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 418,
+      "team": "Cooper Car Company/Climax",
+      "best_ms": 517500,
+      "best_raw": "8:37.500",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 242,
+      "team": "RRC Walker Racing Team/Climax",
+      "best_ms": 517900,
+      "best_raw": "8:37.900",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 299,
+      "team": "Cooper Car Company/Climax",
+      "best_ms": 518400,
+      "best_raw": "8:38.400",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 227,
+      "team": "Brabham Racing Organisation/Climax",
+      "best_ms": 519000,
+      "best_raw": "8:39.000",
+      "source_session": "MT"
     },
     {
       "driver_id": 405,
-      "team": "",
-      "best_time_ms": 520400,
-      "best_time_raw": "8:40.400",
-      "source_session": "Q3",
-      "perf_pct": 103.521
+      "team": "Team Lotus/Climax",
+      "best_ms": 520400,
+      "best_raw": "8:40.400",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 430,
+      "team": "Brabham Racing Organisation/Climax",
+      "best_ms": 522100,
+      "best_raw": "8:42.100",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 397,
+      "team": "DW Racing Entreprises/Climax",
+      "best_ms": 527400,
+      "best_raw": "8:47.400",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 396,
+      "team": "Reg Parnell Racing/BRM",
+      "best_ms": 530500,
+      "best_raw": "8:50.500",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 422,
+      "team": "Reg Parnell Racing/BRM",
+      "best_ms": 537700,
+      "best_raw": "8:57.700",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 416,
+      "team": "John Willment Automobiles/BRM",
+      "best_ms": 539300,
+      "best_raw": "8:59.300",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 272,
+      "team": "Scuderia Centro Sud/BRM",
+      "best_ms": 550600,
+      "best_raw": "9:10.600",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 429,
+      "team": "DW Racing Entreprises/Climax",
+      "best_ms": 556800,
+      "best_raw": "9:16.800",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 363,
+      "team": "Scuderia Centro Sud/BRM",
+      "best_ms": 557700,
+      "best_raw": "9:17.700",
+      "source_session": "Q2"
     },
     {
       "driver_id": 408,
-      "team": "",
-      "best_time_ms": 557800,
-      "best_time_raw": "9:17.800",
-      "source_session": "Q3",
-      "perf_pct": 110.961
+      "team": "Ian Raby Racing/BRM",
+      "best_ms": 557800,
+      "best_raw": "9:17.800",
+      "source_session": "Q3"
     }
-  ]
+  ],
+  "race_id": 138,
+  "updated_at": "2025-10-21T14:36:32.479097Z",
+  "schema": "v3.4"
 }
