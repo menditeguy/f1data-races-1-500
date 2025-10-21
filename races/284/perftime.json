@@ -1,183 +1,161 @@
 {
-  "race_id": 284,
-  "generated_at": "2025-10-21T10:54:53Z",
-  "schema": "v3.3",
   "drivers": [
     {
-      "driver_id": 457,
-      "team": "",
-      "best_time_ms": 81868,
-      "best_time_raw": "1:21.868",
-      "source_session": "Q3",
-      "perf_pct": 100.292
-    },
-    {
       "driver_id": 499,
-      "team": "",
-      "best_time_ms": 81630,
-      "best_time_raw": "1:21.630",
-      "source_session": "Q3",
-      "perf_pct": 100.0
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 81630,
+      "best_raw": "1:21.630",
+      "source_session": "Q3"
     },
     {
-      "driver_id": 512,
-      "team": "",
-      "best_time_ms": 82260,
-      "best_time_raw": "1:22.260",
-      "source_session": "Q3",
-      "perf_pct": 100.772
-    },
-    {
-      "driver_id": 478,
-      "team": "",
-      "best_time_ms": 82382,
-      "best_time_raw": "1:22.382",
-      "source_session": "Q3",
-      "perf_pct": 100.921
-    },
-    {
-      "driver_id": 483,
-      "team": "",
-      "best_time_ms": 82655,
-      "best_time_raw": "1:22.655",
-      "source_session": "Q3",
-      "perf_pct": 101.256
-    },
-    {
-      "driver_id": 484,
-      "team": "",
-      "best_time_ms": 82762,
-      "best_time_raw": "1:22.762",
-      "source_session": "Q3",
-      "perf_pct": 101.387
-    },
-    {
-      "driver_id": 497,
-      "team": "",
-      "best_time_ms": 82611,
-      "best_time_raw": "1:22.611",
-      "source_session": "Q3",
-      "perf_pct": 101.202
-    },
-    {
-      "driver_id": 506,
-      "team": "",
-      "best_time_ms": 82675,
-      "best_time_raw": "1:22.675",
-      "source_session": "Q3",
-      "perf_pct": 101.28
+      "driver_id": 457,
+      "team": "John Player Team Lotus/Ford Cosworth",
+      "best_ms": 81868,
+      "best_raw": "1:21.868",
+      "source_session": "Q3"
     },
     {
       "driver_id": 513,
-      "team": "",
-      "best_time_ms": 81887,
-      "best_time_raw": "1:21.887",
-      "source_session": "Q3",
-      "perf_pct": 100.315
+      "team": "Walter Wolf Racing/Ford Cosworth",
+      "best_ms": 81887,
+      "best_raw": "1:21.887",
+      "source_session": "Q3"
     },
     {
-      "driver_id": 516,
-      "team": "",
-      "best_time_ms": 82529,
-      "best_time_raw": "1:22.529",
-      "source_session": "Q3",
-      "perf_pct": 101.101
-    },
-    {
-      "driver_id": 518,
-      "team": "",
-      "best_time_ms": 83231,
-      "best_time_raw": "1:23.231",
-      "source_session": "Q3",
-      "perf_pct": 101.961
-    },
-    {
-      "driver_id": 522,
-      "team": "",
-      "best_time_ms": 82372,
-      "best_time_raw": "1:22.372",
-      "source_session": "Q3",
-      "perf_pct": 100.909
-    },
-    {
-      "driver_id": 526,
-      "team": "",
-      "best_time_ms": 82658,
-      "best_time_raw": "1:22.659",
-      "source_session": "Q3",
-      "perf_pct": 101.259
+      "driver_id": 512,
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 82260,
+      "best_raw": "1:22.260",
+      "source_session": "Q3"
     },
     {
       "driver_id": 534,
-      "team": "",
-      "best_time_ms": 82295,
-      "best_time_raw": "1:22.296",
-      "source_session": "Q2",
-      "perf_pct": 100.815
+      "team": "Ligier Gitanes/Matra",
+      "best_ms": 82295,
+      "best_raw": "1:22.296",
+      "source_session": "Q2"
     },
     {
-      "driver_id": 546,
-      "team": "",
-      "best_time_ms": 83811,
-      "best_time_raw": "1:23.811",
-      "source_session": "Q2",
-      "perf_pct": 102.672
+      "driver_id": 522,
+      "team": "Martini Racing/Alfa Romeo",
+      "best_ms": 82372,
+      "best_raw": "1:22.372",
+      "source_session": "Q3"
     },
     {
-      "driver_id": 553,
-      "team": "",
-      "best_time_ms": 84036,
-      "best_time_raw": "1:24.036",
-      "source_session": "Q3",
-      "perf_pct": 102.947
+      "driver_id": 478,
+      "team": "Copersucar-Fittipaldi/Ford Cosworth",
+      "best_ms": 82382,
+      "best_raw": "1:22.382",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 516,
+      "team": "Marlboro Team McLaren/Ford Cosworth",
+      "best_ms": 82529,
+      "best_raw": "1:22.529",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 497,
+      "team": "ATS Racing Team/Ford Cosworth",
+      "best_ms": 82611,
+      "best_raw": "1:22.611",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 483,
+      "team": "Elf Team Tyrrell/Ford Cosworth",
+      "best_ms": 82655,
+      "best_raw": "1:22.655",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 526,
+      "team": "Beta Team Surtees/Ford Cosworth",
+      "best_ms": 82658,
+      "best_raw": "1:22.659",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 506,
+      "team": "Elf Team Tyrrell/Ford Cosworth",
+      "best_ms": 82675,
+      "best_raw": "1:22.675",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 484,
+      "team": "Team Tissot Ensign with Castrol/Ford Cosworth",
+      "best_ms": 82762,
+      "best_raw": "1:22.762",
+      "source_session": "Q3"
     },
     {
       "driver_id": 554,
-      "team": "",
-      "best_time_ms": 83056,
-      "best_time_raw": "1:23.056",
-      "source_session": "Q3",
-      "perf_pct": 101.747
+      "team": "Shadow Racing Team/Ford Cosworth",
+      "best_ms": 83056,
+      "best_raw": "1:23.056",
+      "source_session": "Q3"
     },
     {
-      "driver_id": 556,
-      "team": "",
-      "best_time_ms": 84979,
-      "best_time_raw": "1:24.979",
-      "source_session": "Q2",
-      "perf_pct": 104.103
-    },
-    {
-      "driver_id": 564,
-      "team": "",
-      "best_time_ms": 84357,
-      "best_time_raw": "1:24.357",
-      "source_session": "Q3",
-      "perf_pct": 103.341
-    },
-    {
-      "driver_id": 566,
-      "team": "Surtees",
-      "best_time_ms": 84163,
-      "best_time_raw": "1:24.163",
-      "source_session": "GRID",
-      "perf_pct": 103.103
+      "driver_id": 518,
+      "team": "Marlboro Team McLaren/Ford Cosworth",
+      "best_ms": 83231,
+      "best_raw": "1:23.231",
+      "source_session": "Q3"
     },
     {
       "driver_id": 578,
-      "team": "",
-      "best_time_ms": 83384,
-      "best_time_raw": "1:23.384",
-      "source_session": "Q3",
-      "perf_pct": 102.149
+      "team": "John Player Team Lotus/Ford Cosworth",
+      "best_ms": 83384,
+      "best_raw": "1:23.384",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 546,
+      "team": "Martini Racing/Alfa Romeo",
+      "best_ms": 83811,
+      "best_raw": "1:23.811",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 553,
+      "team": "Team Rothmans Internationnal/Ford Cosworth",
+      "best_ms": 84036,
+      "best_raw": "1:24.036",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 566,
+      "team": "Durex Team Surtees/Ford Cosworth",
+      "best_ms": 84163,
+      "best_raw": "1:24.163",
+      "source_session": "GRID"
+    },
+    {
+      "driver_id": 564,
+      "team": "Shadow Racing Team/Ford Cosworth",
+      "best_ms": 84357,
+      "best_raw": "1:24.357",
+      "source_session": "Q3"
+    },
+    {
+      "driver_id": 556,
+      "team": "Chesterfield Racing/Ford Cosworth",
+      "best_ms": 84979,
+      "best_raw": "1:24.979",
+      "source_session": "Q2"
     },
     {
       "driver_id": 580,
-      "team": "",
-      "best_time_ms": 85080,
-      "best_time_raw": "1:25.080",
-      "source_session": "Q3",
-      "perf_pct": 104.226
+      "team": "Hollywood March Racing/Ford Cosworth",
+      "best_ms": 85080,
+      "best_raw": "1:25.080",
+      "source_session": "Q3"
     }
-  ]
+  ],
+  "race_id": 284,
+  "updated_at": "2025-10-21T14:36:33.253902Z",
+  "schema": "v3.4"
 }
