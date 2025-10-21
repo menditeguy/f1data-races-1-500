@@ -1,1 +1,183 @@
-[]
+{
+  "race_id": 18,
+  "generated_at": "2025-10-21T09:01:51Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 3,
+      "team": "Ferrari",
+      "best_time_ms": 277000,
+      "best_time_raw": "4:37.000",
+      "source_session": "GRID",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 7,
+      "team": "Simca Gordini",
+      "best_time_ms": 328400,
+      "best_time_raw": "5:28.400",
+      "source_session": "GRID",
+      "perf_pct": 118.556
+    },
+    {
+      "driver_id": 16,
+      "team": "Gordini",
+      "best_time_ms": 331100,
+      "best_time_raw": "5:31.100",
+      "source_session": "GRID",
+      "perf_pct": 119.531
+    },
+    {
+      "driver_id": 26,
+      "team": "Ferrari",
+      "best_time_ms": 280000,
+      "best_time_raw": "4:40.000",
+      "source_session": "GRID",
+      "perf_pct": 101.083
+    },
+    {
+      "driver_id": 51,
+      "team": "Gordini",
+      "best_time_ms": 292000,
+      "best_time_raw": "4:52.000",
+      "source_session": "GRID",
+      "perf_pct": 105.415
+    },
+    {
+      "driver_id": 67,
+      "team": "Ferrari",
+      "best_time_ms": 325700,
+      "best_time_raw": "5:25.700",
+      "source_session": "GRID",
+      "perf_pct": 117.581
+    },
+    {
+      "driver_id": 76,
+      "team": "Ferrari",
+      "best_time_ms": 286000,
+      "best_time_raw": "4:46.000",
+      "source_session": "GRID",
+      "perf_pct": 103.249
+    },
+    {
+      "driver_id": 104,
+      "team": "ERA",
+      "best_time_ms": 307600,
+      "best_time_raw": "5:07.600",
+      "source_session": "GRID",
+      "perf_pct": 111.047
+    },
+    {
+      "driver_id": 118,
+      "team": "Gordini",
+      "best_time_ms": 296000,
+      "best_time_raw": "4:56.000",
+      "source_session": "GRID",
+      "perf_pct": 106.859
+    },
+    {
+      "driver_id": 120,
+      "team": "Cooper",
+      "best_time_ms": 311000,
+      "best_time_raw": "5:11.000",
+      "source_session": "GRID",
+      "perf_pct": 112.274
+    },
+    {
+      "driver_id": 121,
+      "team": "Cooper",
+      "best_time_ms": 307000,
+      "best_time_raw": "5:07.000",
+      "source_session": "GRID",
+      "perf_pct": 110.83
+    },
+    {
+      "driver_id": 126,
+      "team": "HWM",
+      "best_time_ms": 309000,
+      "best_time_raw": "5:09.000",
+      "source_session": "GRID",
+      "perf_pct": 111.552
+    },
+    {
+      "driver_id": 131,
+      "team": "Ferrari",
+      "best_time_ms": 314500,
+      "best_time_raw": "5:14.500",
+      "source_session": "GRID",
+      "perf_pct": 113.538
+    },
+    {
+      "driver_id": 137,
+      "team": "HWM",
+      "best_time_ms": 305000,
+      "best_time_raw": "5:05.000",
+      "source_session": "GRID",
+      "perf_pct": 110.108
+    },
+    {
+      "driver_id": 138,
+      "team": "HWM",
+      "best_time_ms": 322800,
+      "best_time_raw": "5:22.800",
+      "source_session": "GRID",
+      "perf_pct": 116.534
+    },
+    {
+      "driver_id": 139,
+      "team": "Cooper",
+      "best_time_ms": 298000,
+      "best_time_raw": "4:58.000",
+      "source_session": "GRID",
+      "perf_pct": 107.581
+    },
+    {
+      "driver_id": 147,
+      "team": "HWM",
+      "best_time_ms": 337900,
+      "best_time_raw": "5:37.900",
+      "source_session": "GRID",
+      "perf_pct": 121.986
+    },
+    {
+      "driver_id": 148,
+      "team": "Veritas",
+      "best_time_ms": 345000,
+      "best_time_raw": "5:45.000",
+      "source_session": "GRID",
+      "perf_pct": 124.549
+    },
+    {
+      "driver_id": 149,
+      "team": "HWM",
+      "best_time_ms": 317100,
+      "best_time_raw": "5:17.100",
+      "source_session": "GRID",
+      "perf_pct": 114.477
+    },
+    {
+      "driver_id": 151,
+      "team": "Aston",
+      "best_time_ms": 319300,
+      "best_time_raw": "5:19.300",
+      "source_session": "GRID",
+      "perf_pct": 115.271
+    },
+    {
+      "driver_id": 154,
+      "team": "Simca Gordini",
+      "best_time_ms": 351000,
+      "best_time_raw": "5:51.000",
+      "source_session": "GRID",
+      "perf_pct": 126.715
+    },
+    {
+      "driver_id": 168,
+      "team": "Frazer Nash",
+      "best_time_ms": 301000,
+      "best_time_raw": "5:01.000",
+      "source_session": "GRID",
+      "perf_pct": 108.664
+    }
+  ]
+}
