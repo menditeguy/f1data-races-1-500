@@ -1,100 +1,119 @@
-[
-  {
-    "driver_id": 104,
-    "team": "",
-    "best_time": "1:42.600",
-    "session": "Q2",
-    "perf_pct": 100.0
-  },
-  {
-    "driver_id": 25,
-    "team": "",
-    "best_time": "1:43.700",
-    "session": "Q2",
-    "perf_pct": 101.07
-  },
-  {
-    "driver_id": 118,
-    "team": "",
-    "best_time": "1:44.000",
-    "session": "Q2",
-    "perf_pct": 101.36
-  },
-  {
-    "driver_id": 228,
-    "team": "",
-    "best_time": "1:44.200",
-    "session": "Q2",
-    "perf_pct": 101.56
-  },
-  {
-    "driver_id": 126,
-    "team": "",
-    "best_time": "1:44.600",
-    "session": "Q2",
-    "perf_pct": 101.95
-  },
-  {
-    "driver_id": 194,
-    "team": "",
-    "best_time": "1:44.800",
-    "session": "Q2",
-    "perf_pct": 102.14
-  },
-  {
-    "driver_id": 139,
-    "team": "",
-    "best_time": "1:44.900",
-    "session": "Q2",
-    "perf_pct": 102.24
-  },
-  {
-    "driver_id": 192,
-    "team": "",
-    "best_time": "1:45.100",
-    "session": "Q2",
-    "perf_pct": 102.44
-  },
-  {
-    "driver_id": 71,
-    "team": "",
-    "best_time": "1:46.600",
-    "session": "Q2",
-    "perf_pct": 103.9
-  },
-  {
-    "driver_id": 33,
-    "team": "",
-    "best_time": "1:46.800",
-    "session": "Q2",
-    "perf_pct": 104.09
-  },
-  {
-    "driver_id": 235,
-    "team": "",
-    "best_time": "1:48.600",
-    "session": "Q2",
-    "perf_pct": 105.85
-  },
-  {
-    "driver_id": 266,
-    "team": "",
-    "best_time": "1:56.100",
-    "session": "Q2",
-    "perf_pct": 113.16
-  },
-  {
-    "driver_id": 242,
-    "team": "",
-    "best_time": "1:58.200",
-    "session": "Q2",
-    "perf_pct": 115.2
-  },
-  {
-    "driver_id": 255,
-    "team": "",
-    "best_time": "1:58.200",
-    "session": "Q2",
-    "perf_pct": 115.2
-  }
-]
+{
+  "race_id": 57,
+  "generated_at": "2025-10-21T09:01:51Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 25,
+      "team": "",
+      "best_time_ms": 103700,
+      "best_time_raw": "1:43.700",
+      "source_session": "Q2",
+      "perf_pct": 101.072
+    },
+    {
+      "driver_id": 33,
+      "team": "",
+      "best_time_ms": 106800,
+      "best_time_raw": "1:46.800",
+      "source_session": "Q2",
+      "perf_pct": 104.094
+    },
+    {
+      "driver_id": 71,
+      "team": "",
+      "best_time_ms": 106600,
+      "best_time_raw": "1:46.600",
+      "source_session": "Q2",
+      "perf_pct": 103.899
+    },
+    {
+      "driver_id": 104,
+      "team": "",
+      "best_time_ms": 102600,
+      "best_time_raw": "1:42.600",
+      "source_session": "Q2",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 118,
+      "team": "",
+      "best_time_ms": 104000,
+      "best_time_raw": "1:44.000",
+      "source_session": "Q2",
+      "perf_pct": 101.365
+    },
+    {
+      "driver_id": 126,
+      "team": "",
+      "best_time_ms": 104600,
+      "best_time_raw": "1:44.600",
+      "source_session": "Q2",
+      "perf_pct": 101.949
+    },
+    {
+      "driver_id": 139,
+      "team": "",
+      "best_time_ms": 104900,
+      "best_time_raw": "1:44.900",
+      "source_session": "Q2",
+      "perf_pct": 102.242
+    },
+    {
+      "driver_id": 192,
+      "team": "",
+      "best_time_ms": 105100,
+      "best_time_raw": "1:45.100",
+      "source_session": "Q2",
+      "perf_pct": 102.437
+    },
+    {
+      "driver_id": 194,
+      "team": "",
+      "best_time_ms": 104800,
+      "best_time_raw": "1:44.800",
+      "source_session": "Q2",
+      "perf_pct": 102.144
+    },
+    {
+      "driver_id": 228,
+      "team": "",
+      "best_time_ms": 104200,
+      "best_time_raw": "1:44.200",
+      "source_session": "Q2",
+      "perf_pct": 101.559
+    },
+    {
+      "driver_id": 235,
+      "team": "",
+      "best_time_ms": 108600,
+      "best_time_raw": "1:48.600",
+      "source_session": "Q2",
+      "perf_pct": 105.848
+    },
+    {
+      "driver_id": 242,
+      "team": "",
+      "best_time_ms": 118200,
+      "best_time_raw": "1:58.200",
+      "source_session": "Q2",
+      "perf_pct": 115.205
+    },
+    {
+      "driver_id": 255,
+      "team": "",
+      "best_time_ms": 118200,
+      "best_time_raw": "1:58.200",
+      "source_session": "Q2",
+      "perf_pct": 115.205
+    },
+    {
+      "driver_id": 266,
+      "team": "",
+      "best_time_ms": 116100,
+      "best_time_raw": "1:56.100",
+      "source_session": "Q2",
+      "perf_pct": 113.158
+    }
+  ]
+}
