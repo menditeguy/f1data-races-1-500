@@ -1,1 +1,111 @@
-[]
+{
+  "race_id": 10,
+  "generated_at": "2025-10-21T09:01:51Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 3,
+      "team": "Ferrari",
+      "best_time_ms": 270000,
+      "best_time_raw": "4:30.000",
+      "source_session": "GRID",
+      "perf_pct": 103.014
+    },
+    {
+      "driver_id": 14,
+      "team": "Talbot Lago",
+      "best_time_ms": 285900,
+      "best_time_raw": "4:45.900",
+      "source_session": "MT",
+      "perf_pct": 109.081
+    },
+    {
+      "driver_id": 16,
+      "team": "Talbot Lago",
+      "best_time_ms": 296200,
+      "best_time_raw": "4:56.200",
+      "source_session": "MT",
+      "perf_pct": 113.01
+    },
+    {
+      "driver_id": 23,
+      "team": "Talbot Lago",
+      "best_time_ms": 304000,
+      "best_time_raw": "5:04.000",
+      "source_session": "GRID",
+      "perf_pct": 115.986
+    },
+    {
+      "driver_id": 25,
+      "team": "Alfa Romeo",
+      "best_time_ms": 262100,
+      "best_time_raw": "4:22.100",
+      "source_session": "MT",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 26,
+      "team": "Alfa Romeo",
+      "best_time_ms": 268000,
+      "best_time_raw": "4:28.000",
+      "source_session": "GRID",
+      "perf_pct": 102.251
+    },
+    {
+      "driver_id": 32,
+      "team": "Talbot Lago",
+      "best_time_ms": 287600,
+      "best_time_raw": "4:47.600",
+      "source_session": "MT",
+      "perf_pct": 109.729
+    },
+    {
+      "driver_id": 47,
+      "team": "Talbot Lago",
+      "best_time_ms": 304900,
+      "best_time_raw": "5:04.900",
+      "source_session": "MT",
+      "perf_pct": 116.33
+    },
+    {
+      "driver_id": 67,
+      "team": "Talbot Lago",
+      "best_time_ms": 285000,
+      "best_time_raw": "4:45.000",
+      "source_session": "GRID",
+      "perf_pct": 108.737
+    },
+    {
+      "driver_id": 70,
+      "team": "Alfa Romeo",
+      "best_time_ms": 276000,
+      "best_time_raw": "4:36.000",
+      "source_session": "GRID",
+      "perf_pct": 105.303
+    },
+    {
+      "driver_id": 76,
+      "team": "Ferrari",
+      "best_time_ms": 272000,
+      "best_time_raw": "4:32.000",
+      "source_session": "GRID",
+      "perf_pct": 103.777
+    },
+    {
+      "driver_id": 78,
+      "team": "Ferrari",
+      "best_time_ms": 269000,
+      "best_time_raw": "4:29.000",
+      "source_session": "GRID",
+      "perf_pct": 102.633
+    },
+    {
+      "driver_id": 107,
+      "team": "Talbot Lago",
+      "best_time_ms": 296200,
+      "best_time_raw": "4:56.200",
+      "source_session": "MT",
+      "perf_pct": 113.01
+    }
+  ]
+}
