@@ -1,30 +1,151 @@
-[
-  {
-    "driver_id": 273,
-    "team": "",
-    "best_time": "1:42.400",
-    "session": "Q2",
-    "perf_pct": 100.0
-  },
-  {
-    "driver_id": 104,
-    "team": "",
-    "best_time": "1:42.700",
-    "session": "Q1",
-    "perf_pct": 100.29
-  },
-  {
-    "driver_id": 243,
-    "team": "",
-    "best_time": "1:42.900",
-    "session": "Q2",
-    "perf_pct": 100.49
-  },
-  {
-    "driver_id": 25,
-    "team": "",
-    "best_time": "1:43.100",
-    "session": "Q1",
-    "perf_pct": 100.68
-  }
-]
+{
+  "race_id": 64,
+  "generated_at": "2025-10-21T09:01:51Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 25,
+      "team": "",
+      "best_time_ms": 103100,
+      "best_time_raw": "1:43.100",
+      "source_session": "Q1",
+      "perf_pct": 100.684
+    },
+    {
+      "driver_id": 104,
+      "team": "",
+      "best_time_ms": 102700,
+      "best_time_raw": "1:42.700",
+      "source_session": "Q1",
+      "perf_pct": 100.293
+    },
+    {
+      "driver_id": 243,
+      "team": "",
+      "best_time_ms": 102900,
+      "best_time_raw": "1:42.900",
+      "source_session": "Q2",
+      "perf_pct": 100.488
+    },
+    {
+      "driver_id": 273,
+      "team": "",
+      "best_time_ms": 102400,
+      "best_time_raw": "1:42.400",
+      "source_session": "Q2",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 71,
+      "team": "Maserati",
+      "best_time_ms": 105100,
+      "best_time_raw": "1:45.100",
+      "source_session": "GRID",
+      "perf_pct": 102.637
+    },
+    {
+      "driver_id": 90,
+      "team": "Maserati",
+      "best_time_ms": 112200,
+      "best_time_raw": "1:52.200",
+      "source_session": "GRID",
+      "perf_pct": 109.57
+    },
+    {
+      "driver_id": 110,
+      "team": "Maserati",
+      "best_time_ms": 112800,
+      "best_time_raw": "1:52.800",
+      "source_session": "GRID",
+      "perf_pct": 110.156
+    },
+    {
+      "driver_id": 118,
+      "team": "Maserati",
+      "best_time_ms": 103900,
+      "best_time_raw": "1:43.900",
+      "source_session": "GRID",
+      "perf_pct": 101.465
+    },
+    {
+      "driver_id": 126,
+      "team": "Ferrari",
+      "best_time_ms": 105300,
+      "best_time_raw": "1:45.300",
+      "source_session": "GRID",
+      "perf_pct": 102.832
+    },
+    {
+      "driver_id": 139,
+      "team": "Ferrari",
+      "best_time_ms": 106100,
+      "best_time_raw": "1:46.100",
+      "source_session": "GRID",
+      "perf_pct": 103.613
+    },
+    {
+      "driver_id": 194,
+      "team": "Ferrari",
+      "best_time_ms": 105700,
+      "best_time_raw": "1:45.700",
+      "source_session": "GRID",
+      "perf_pct": 103.223
+    },
+    {
+      "driver_id": 213,
+      "team": "Maserati",
+      "best_time_ms": 113700,
+      "best_time_raw": "1:53.700",
+      "source_session": "GRID",
+      "perf_pct": 111.035
+    },
+    {
+      "driver_id": 242,
+      "team": "Maserati",
+      "best_time_ms": 109700,
+      "best_time_raw": "1:49.700",
+      "source_session": "GRID",
+      "perf_pct": 107.129
+    },
+    {
+      "driver_id": 252,
+      "team": "Maserati",
+      "best_time_ms": 111600,
+      "best_time_raw": "1:51.600",
+      "source_session": "GRID",
+      "perf_pct": 108.984
+    },
+    {
+      "driver_id": 255,
+      "team": "Maserati",
+      "best_time_ms": 112900,
+      "best_time_raw": "1:52.900",
+      "source_session": "GRID",
+      "perf_pct": 110.254
+    },
+    {
+      "driver_id": 257,
+      "team": "Maserati",
+      "best_time_ms": 109200,
+      "best_time_raw": "1:49.200",
+      "source_session": "GRID",
+      "perf_pct": 106.641
+    },
+    {
+      "driver_id": 272,
+      "team": "Maserati",
+      "best_time_ms": 108900,
+      "best_time_raw": "1:48.900",
+      "source_session": "GRID",
+      "perf_pct": 106.348
+    },
+    {
+      "driver_id": 280,
+      "team": "Ferrari",
+      "best_time_ms": 105500,
+      "best_time_raw": "1:45.500",
+      "source_session": "GRID",
+      "perf_pct": 103.027
+    }
+  ]
+}
