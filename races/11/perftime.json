@@ -1,23 +1,191 @@
-[
-  {
-    "driver_id": 25,
-    "team": "",
-    "best_time": "2:25.700",
-    "session": "Q2",
-    "perf_pct": 100.0
-  },
-  {
-    "driver_id": 26,
-    "team": "",
-    "best_time": "2:27.400",
-    "session": "Q2",
-    "perf_pct": 101.17
-  },
-  {
-    "driver_id": 3,
-    "team": "",
-    "best_time": "2:28.100",
-    "session": "Q1",
-    "perf_pct": 101.65
-  }
-]
+{
+  "race_id": 11,
+  "generated_at": "2025-10-21T09:01:51Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 3,
+      "team": "",
+      "best_time_ms": 148100,
+      "best_time_raw": "2:28.100",
+      "source_session": "Q1",
+      "perf_pct": 101.647
+    },
+    {
+      "driver_id": 25,
+      "team": "",
+      "best_time_ms": 145700,
+      "best_time_raw": "2:25.700",
+      "source_session": "Q2",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 26,
+      "team": "",
+      "best_time_ms": 147400,
+      "best_time_raw": "2:27.400",
+      "source_session": "Q2",
+      "perf_pct": 101.167
+    },
+    {
+      "driver_id": 13,
+      "team": "Talbot Lago",
+      "best_time_ms": 169600,
+      "best_time_raw": "2:49.600",
+      "source_session": "GRID",
+      "perf_pct": 116.404
+    },
+    {
+      "driver_id": 14,
+      "team": "Talbot Lago",
+      "best_time_ms": 163700,
+      "best_time_raw": "2:43.700",
+      "source_session": "GRID",
+      "perf_pct": 112.354
+    },
+    {
+      "driver_id": 16,
+      "team": "Talbot Lago",
+      "best_time_ms": 166600,
+      "best_time_raw": "2:46.600",
+      "source_session": "GRID",
+      "perf_pct": 114.345
+    },
+    {
+      "driver_id": 21,
+      "team": "Maserati",
+      "best_time_ms": 170100,
+      "best_time_raw": "2:50.100",
+      "source_session": "GRID",
+      "perf_pct": 116.747
+    },
+    {
+      "driver_id": 23,
+      "team": "Talbot Lago",
+      "best_time_ms": 164800,
+      "best_time_raw": "2:44.800",
+      "source_session": "GRID",
+      "perf_pct": 113.109
+    },
+    {
+      "driver_id": 24,
+      "team": "Alfa Romeo",
+      "best_time_ms": 153100,
+      "best_time_raw": "2:33.100",
+      "source_session": "GRID",
+      "perf_pct": 105.079
+    },
+    {
+      "driver_id": 32,
+      "team": "Talbot Lago",
+      "best_time_ms": 165700,
+      "best_time_raw": "2:45.700",
+      "source_session": "GRID",
+      "perf_pct": 113.727
+    },
+    {
+      "driver_id": 33,
+      "team": "Ferrari",
+      "best_time_ms": 150800,
+      "best_time_raw": "2:30.800",
+      "source_session": "GRID",
+      "perf_pct": 103.5
+    },
+    {
+      "driver_id": 50,
+      "team": "Talbot Lago",
+      "best_time_ms": 177500,
+      "best_time_raw": "2:57.500",
+      "source_session": "MT",
+      "perf_pct": 121.826
+    },
+    {
+      "driver_id": 51,
+      "team": "Simca Gordini",
+      "best_time_ms": 186000,
+      "best_time_raw": "3:06.000",
+      "source_session": "GRID",
+      "perf_pct": 127.66
+    },
+    {
+      "driver_id": 57,
+      "team": "Ferrari",
+      "best_time_ms": 164000,
+      "best_time_raw": "2:44.000",
+      "source_session": "GRID",
+      "perf_pct": 112.56
+    },
+    {
+      "driver_id": 67,
+      "team": "Talbot Lago",
+      "best_time_ms": 168000,
+      "best_time_raw": "2:48.000",
+      "source_session": "GRID",
+      "perf_pct": 115.305
+    },
+    {
+      "driver_id": 70,
+      "team": "Alfa Romeo",
+      "best_time_ms": 148900,
+      "best_time_raw": "2:28.900",
+      "source_session": "GRID",
+      "perf_pct": 102.196
+    },
+    {
+      "driver_id": 71,
+      "team": "Maserati",
+      "best_time_ms": 182000,
+      "best_time_raw": "3:02.000",
+      "source_session": "GRID",
+      "perf_pct": 124.914
+    },
+    {
+      "driver_id": 77,
+      "team": "Simca Gordini",
+      "best_time_ms": 170400,
+      "best_time_raw": "2:50.400",
+      "source_session": "GRID",
+      "perf_pct": 116.953
+    },
+    {
+      "driver_id": 78,
+      "team": "Ferrari",
+      "best_time_ms": 148500,
+      "best_time_raw": "2:28.500",
+      "source_session": "GRID",
+      "perf_pct": 101.922
+    },
+    {
+      "driver_id": 82,
+      "team": "Ferrari",
+      "best_time_ms": 179000,
+      "best_time_raw": "2:59.000",
+      "source_session": "GRID",
+      "perf_pct": 122.855
+    },
+    {
+      "driver_id": 91,
+      "team": "Simca Gordini",
+      "best_time_ms": 170300,
+      "best_time_raw": "2:50.300",
+      "source_session": "GRID",
+      "perf_pct": 116.884
+    },
+    {
+      "driver_id": 102,
+      "team": "Maserati Milano",
+      "best_time_ms": 169900,
+      "best_time_raw": "2:49.900",
+      "source_session": "GRID",
+      "perf_pct": 116.609
+    },
+    {
+      "driver_id": 110,
+      "team": "Simca Gordini",
+      "best_time_ms": 179500,
+      "best_time_raw": "2:59.500",
+      "source_session": "GRID",
+      "perf_pct": 123.198
+    }
+  ]
+}
