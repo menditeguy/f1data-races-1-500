@@ -1,1 +1,175 @@
-[]
+{
+  "race_id": 42,
+  "generated_at": "2025-10-21T09:01:51Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 3,
+      "team": "Lancia",
+      "best_time_ms": 103600,
+      "best_time_raw": "1:43.600",
+      "source_session": "GRID",
+      "perf_pct": 100.485
+    },
+    {
+      "driver_id": 25,
+      "team": "Mercedes",
+      "best_time_ms": 103700,
+      "best_time_raw": "1:43.700",
+      "source_session": "GRID",
+      "perf_pct": 100.582
+    },
+    {
+      "driver_id": 26,
+      "team": "Ferrari",
+      "best_time_ms": 103900,
+      "best_time_raw": "1:43.900",
+      "source_session": "GRID",
+      "perf_pct": 100.776
+    },
+    {
+      "driver_id": 33,
+      "team": "Ferrari",
+      "best_time_ms": 103100,
+      "best_time_raw": "1:43.100",
+      "source_session": "GRID",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 71,
+      "team": "Maserati",
+      "best_time_ms": 104300,
+      "best_time_raw": "1:44.300",
+      "source_session": "GRID",
+      "perf_pct": 101.164
+    },
+    {
+      "driver_id": 77,
+      "team": "Ferrari",
+      "best_time_ms": 105800,
+      "best_time_raw": "1:45.800",
+      "source_session": "GRID",
+      "perf_pct": 102.619
+    },
+    {
+      "driver_id": 78,
+      "team": "Lancia",
+      "best_time_ms": 105200,
+      "best_time_raw": "1:45.200",
+      "source_session": "GRID",
+      "perf_pct": 102.037
+    },
+    {
+      "driver_id": 104,
+      "team": "Mercedes",
+      "best_time_ms": 104600,
+      "best_time_raw": "1:44.600",
+      "source_session": "GRID",
+      "perf_pct": 101.455
+    },
+    {
+      "driver_id": 117,
+      "team": "Gordini",
+      "best_time_ms": 106100,
+      "best_time_raw": "1:46.100",
+      "source_session": "GRID",
+      "perf_pct": 102.91
+    },
+    {
+      "driver_id": 118,
+      "team": "Maserati",
+      "best_time_ms": 103800,
+      "best_time_raw": "1:43.800",
+      "source_session": "GRID",
+      "perf_pct": 100.679
+    },
+    {
+      "driver_id": 177,
+      "team": "Gordini",
+      "best_time_ms": 104800,
+      "best_time_raw": "1:44.800",
+      "source_session": "GRID",
+      "perf_pct": 101.649
+    },
+    {
+      "driver_id": 184,
+      "team": "Mercedes",
+      "best_time_ms": 104900,
+      "best_time_raw": "1:44.900",
+      "source_session": "GRID",
+      "perf_pct": 101.746
+    },
+    {
+      "driver_id": 189,
+      "team": "Maserati",
+      "best_time_ms": 106400,
+      "best_time_raw": "1:46.400",
+      "source_session": "GRID",
+      "perf_pct": 103.201
+    },
+    {
+      "driver_id": 192,
+      "team": "Maserati",
+      "best_time_ms": 105400,
+      "best_time_raw": "1:45.400",
+      "source_session": "GRID",
+      "perf_pct": 102.231
+    },
+    {
+      "driver_id": 193,
+      "team": "Maserati",
+      "best_time_ms": 106200,
+      "best_time_raw": "1:46.200",
+      "source_session": "GRID",
+      "perf_pct": 103.007
+    },
+    {
+      "driver_id": 194,
+      "team": "Maserati",
+      "best_time_ms": 106400,
+      "best_time_raw": "1:46.400",
+      "source_session": "GRID",
+      "perf_pct": 103.201
+    },
+    {
+      "driver_id": 207,
+      "team": "Maserati",
+      "best_time_ms": 107600,
+      "best_time_raw": "1:47.600",
+      "source_session": "GRID",
+      "perf_pct": 104.365
+    },
+    {
+      "driver_id": 216,
+      "team": "Mercedes",
+      "best_time_ms": 104100,
+      "best_time_raw": "1:44.100",
+      "source_session": "GRID",
+      "perf_pct": 100.97
+    },
+    {
+      "driver_id": 228,
+      "team": "Lancia",
+      "best_time_ms": 105300,
+      "best_time_raw": "1:45.300",
+      "source_session": "GRID",
+      "perf_pct": 102.134
+    },
+    {
+      "driver_id": 232,
+      "team": "Gordini",
+      "best_time_ms": 106300,
+      "best_time_raw": "1:46.300",
+      "source_session": "GRID",
+      "perf_pct": 103.104
+    },
+    {
+      "driver_id": 239,
+      "team": "Maserati",
+      "best_time_ms": 112300,
+      "best_time_raw": "1:52.300",
+      "source_session": "GRID",
+      "perf_pct": 108.923
+    }
+  ]
+}
