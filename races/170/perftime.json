@@ -1,199 +1,175 @@
 {
-  "race_id": 170,
-  "generated_at": "2025-10-21T10:54:53Z",
-  "schema": "v3.3",
   "drivers": [
     {
-      "driver_id": 227,
-      "team": "",
-      "best_time_ms": 88800,
-      "best_time_raw": "1:28.800",
-      "source_session": "Q1",
-      "perf_pct": 103.172
-    },
-    {
-      "driver_id": 242,
-      "team": "",
-      "best_time_ms": 90550,
-      "best_time_raw": "1:30.550",
-      "source_session": "Q2",
-      "perf_pct": 105.205
-    },
-    {
-      "driver_id": 293,
-      "team": "",
-      "best_time_ms": 86539,
-      "best_time_raw": "1:26.540",
-      "source_session": "Q1",
-      "perf_pct": 100.545
+      "driver_id": 355,
+      "team": "Honda Racing",
+      "best_ms": 86070,
+      "best_raw": "1:26.070",
+      "source_session": "Q2"
     },
     {
       "driver_id": 299,
-      "team": "",
-      "best_time_ms": 86110,
-      "best_time_raw": "1:26.110",
-      "source_session": "Q2",
-      "perf_pct": 100.046
-    },
-    {
-      "driver_id": 323,
-      "team": "",
-      "best_time_ms": 87610,
-      "best_time_raw": "1:27.610",
-      "source_session": "Q2",
-      "perf_pct": 101.789
-    },
-    {
-      "driver_id": 355,
-      "team": "",
-      "best_time_ms": 86070,
-      "best_time_raw": "1:26.070",
-      "source_session": "Q2",
-      "perf_pct": 100.0
-    },
-    {
-      "driver_id": 394,
-      "team": "",
-      "best_time_ms": 86960,
-      "best_time_raw": "1:26.960",
-      "source_session": "Q1",
-      "perf_pct": 101.034
+      "team": "Bruce McLaren Motor Racing/Ford Cosworth",
+      "best_ms": 86110,
+      "best_raw": "1:26.110",
+      "source_session": "Q2"
     },
     {
       "driver_id": 396,
-      "team": "",
-      "best_time_ms": 86210,
-      "best_time_raw": "1:26.210",
-      "source_session": "Q2",
-      "perf_pct": 100.163
-    },
-    {
-      "driver_id": 409,
-      "team": "",
-      "best_time_ms": 88200,
-      "best_time_raw": "1:28.200",
-      "source_session": "Q1",
-      "perf_pct": 102.475
-    },
-    {
-      "driver_id": 416,
-      "team": "",
-      "best_time_ms": 91400,
-      "best_time_raw": "1:31.400",
-      "source_session": "Q2",
-      "perf_pct": 106.193
-    },
-    {
-      "driver_id": 418,
-      "team": "",
-      "best_time_ms": 87300,
-      "best_time_raw": "1:27.300",
-      "source_session": "Q1",
-      "perf_pct": 101.429
-    },
-    {
-      "driver_id": 430,
-      "team": "",
-      "best_time_ms": 86610,
-      "best_time_raw": "1:26.610",
-      "source_session": "Q1",
-      "perf_pct": 100.627
-    },
-    {
-      "driver_id": 437,
-      "team": "",
-      "best_time_ms": 86600,
-      "best_time_raw": "1:26.600",
-      "source_session": "Q2",
-      "perf_pct": 100.616
-    },
-    {
-      "driver_id": 441,
-      "team": "Matra",
-      "best_time_ms": 89000,
-      "best_time_raw": "1:29.000",
-      "source_session": "MT",
-      "perf_pct": 103.404
-    },
-    {
-      "driver_id": 443,
-      "team": "BRM",
-      "best_time_ms": 88500,
-      "best_time_raw": "1:28.500",
-      "source_session": "MT",
-      "perf_pct": 102.823
-    },
-    {
-      "driver_id": 447,
-      "team": "",
-      "best_time_ms": 87700,
-      "best_time_raw": "1:27.700",
-      "source_session": "Q1",
-      "perf_pct": 101.894
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 86210,
+      "best_raw": "1:26.210",
+      "source_session": "Q2"
     },
     {
       "driver_id": 448,
-      "team": "",
-      "best_time_ms": 86410,
-      "best_time_raw": "1:26.410",
-      "source_session": "Q2",
-      "perf_pct": 100.395
-    },
-    {
-      "driver_id": 450,
-      "team": "Brabham",
-      "best_time_ms": 93700,
-      "best_time_raw": "1:33.700",
-      "source_session": "GRID",
-      "perf_pct": 108.865
-    },
-    {
-      "driver_id": 453,
-      "team": "Matra",
-      "best_time_ms": 87100,
-      "best_time_raw": "1:27.100",
-      "source_session": "MT",
-      "perf_pct": 101.197
-    },
-    {
-      "driver_id": 457,
-      "team": "",
-      "best_time_ms": 87200,
-      "best_time_raw": "1:27.200",
-      "source_session": "Q1",
-      "perf_pct": 101.313
-    },
-    {
-      "driver_id": 458,
-      "team": "",
-      "best_time_ms": 86900,
-      "best_time_raw": "1:26.900",
-      "source_session": "Q2",
-      "perf_pct": 100.964
-    },
-    {
-      "driver_id": 461,
-      "team": "",
-      "best_time_ms": 91300,
-      "best_time_raw": "1:31.300",
-      "source_session": "Q2",
-      "perf_pct": 106.076
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 86410,
+      "best_raw": "1:26.410",
+      "source_session": "Q2"
     },
     {
       "driver_id": 462,
-      "team": "Lotus",
-      "best_time_ms": 86500,
-      "best_time_raw": "1:26.500",
-      "source_session": "MT",
-      "perf_pct": 100.5
+      "team": "Gold Leaf Team Lotus/Ford Cosworth",
+      "best_ms": 86500,
+      "best_raw": "1:26.500",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 293,
+      "team": "Gold Leaf Team Lotus/Ford Cosworth",
+      "best_ms": 86539,
+      "best_raw": "1:26.540",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 437,
+      "team": "Matra International/Ford Cosworth",
+      "best_ms": 86600,
+      "best_raw": "1:26.600",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 430,
+      "team": "Bruce McLaren Motor Racing/Ford Cosworth",
+      "best_ms": 86610,
+      "best_raw": "1:26.610",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 458,
+      "team": "Scuderia Ferrari SpA SEFAC",
+      "best_ms": 86900,
+      "best_raw": "1:26.900",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 394,
+      "team": "Rob Walker / Jack Durlacher Racing Team/Ford Cosworth",
+      "best_ms": 86960,
+      "best_raw": "1:26.960",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 453,
+      "team": "Matra International/Ford Cosworth",
+      "best_ms": 87100,
+      "best_raw": "1:27.100",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 457,
+      "team": "Gold Leaf Team Lotus/Ford Cosworth",
+      "best_ms": 87200,
+      "best_raw": "1:27.200",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 418,
+      "team": "Brabham Racing Organisation/Repco",
+      "best_ms": 87300,
+      "best_raw": "1:27.300",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 323,
+      "team": "Anglo American Racers/Weslake",
+      "best_ms": 87610,
+      "best_raw": "1:27.610",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 447,
+      "team": "Honda Racing",
+      "best_ms": 87700,
+      "best_raw": "1:27.700",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 409,
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 88200,
+      "best_raw": "1:28.200",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 443,
+      "team": "Reg Parnell Racing/BRM",
+      "best_ms": 88500,
+      "best_raw": "1:28.500",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 227,
+      "team": "Brabham Racing Organisation/Repco",
+      "best_ms": 88800,
+      "best_raw": "1:28.800",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 441,
+      "team": "Matra Sports",
+      "best_ms": 89000,
+      "best_raw": "1:29.000",
+      "source_session": "MT"
+    },
+    {
+      "driver_id": 242,
+      "team": "Joakim Bonnier Racing Team/BRM",
+      "best_ms": 90550,
+      "best_raw": "1:30.550",
+      "source_session": "Q2"
     },
     {
       "driver_id": 466,
-      "team": "",
-      "best_time_ms": 90560,
-      "best_time_raw": "1:30.560",
-      "source_session": "Q1",
-      "perf_pct": 105.217
+      "team": "Owen Racing Organisation/BRM",
+      "best_ms": 90560,
+      "best_raw": "1:30.560",
+      "source_session": "Q1"
+    },
+    {
+      "driver_id": 461,
+      "team": "Cooper Car Company/BRM",
+      "best_ms": 91300,
+      "best_raw": "1:31.300",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 416,
+      "team": "Bernard White Racing/BRM",
+      "best_ms": 91400,
+      "best_raw": "1:31.400",
+      "source_session": "Q2"
+    },
+    {
+      "driver_id": 450,
+      "team": "Charles Vögele Racing/Repco",
+      "best_ms": 93700,
+      "best_raw": "1:33.700",
+      "source_session": "GRID"
     }
-  ]
+  ],
+  "race_id": 170,
+  "updated_at": "2025-10-21T14:36:32.635071Z",
+  "schema": "v3.4"
 }
