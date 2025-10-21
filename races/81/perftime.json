@@ -1,37 +1,127 @@
-[
-  {
-    "driver_id": 281,
-    "team": "",
-    "best_time": "2:05.800",
-    "session": "Q2",
-    "perf_pct": 100.0
-  },
-  {
-    "driver_id": 243,
-    "team": "",
-    "best_time": "2:05.900",
-    "session": "Q3",
-    "perf_pct": 100.08
-  },
-  {
-    "driver_id": 104,
-    "team": "",
-    "best_time": "2:06.800",
-    "session": "Q3",
-    "perf_pct": 100.79
-  },
-  {
-    "driver_id": 323,
-    "team": "",
-    "best_time": "2:07.300",
-    "session": "Q2",
-    "perf_pct": 101.19
-  },
-  {
-    "driver_id": 227,
-    "team": "",
-    "best_time": "2:07.500",
-    "session": "Q2",
-    "perf_pct": 101.35
-  }
-]
+{
+  "race_id": 81,
+  "generated_at": "2025-10-21T09:01:52Z",
+  "schema": "v3.3",
+  "drivers": [
+    {
+      "driver_id": 104,
+      "team": "",
+      "best_time_ms": 126800,
+      "best_time_raw": "2:06.800",
+      "source_session": "Q3",
+      "perf_pct": 101.847
+    },
+    {
+      "driver_id": 227,
+      "team": "Cooper",
+      "best_time_ms": 126800,
+      "best_time_raw": "2:06.800",
+      "source_session": "MT",
+      "perf_pct": 101.847
+    },
+    {
+      "driver_id": 243,
+      "team": "Ferrari",
+      "best_time_ms": 124500,
+      "best_time_raw": "2:04.500",
+      "source_session": "MT",
+      "perf_pct": 100.0
+    },
+    {
+      "driver_id": 281,
+      "team": "",
+      "best_time_ms": 125800,
+      "best_time_raw": "2:05.800",
+      "source_session": "Q2",
+      "perf_pct": 101.044
+    },
+    {
+      "driver_id": 323,
+      "team": "Ferrari",
+      "best_time_ms": 124800,
+      "best_time_raw": "2:04.800",
+      "source_session": "MT",
+      "perf_pct": 100.241
+    },
+    {
+      "driver_id": 71,
+      "team": "BRM",
+      "best_time_ms": 127100,
+      "best_time_raw": "2:07.100",
+      "source_session": "MT",
+      "perf_pct": 102.088
+    },
+    {
+      "driver_id": 77,
+      "team": "Cooper",
+      "best_time_ms": 125900,
+      "best_time_raw": "2:05.900",
+      "source_session": "MT",
+      "perf_pct": 101.124
+    },
+    {
+      "driver_id": 184,
+      "team": "BRM",
+      "best_time_ms": 129900,
+      "best_time_raw": "2:09.900",
+      "source_session": "MT",
+      "perf_pct": 104.337
+    },
+    {
+      "driver_id": 242,
+      "team": "BRM",
+      "best_time_ms": 127700,
+      "best_time_raw": "2:07.700",
+      "source_session": "MT",
+      "perf_pct": 102.57
+    },
+    {
+      "driver_id": 272,
+      "team": "Cooper",
+      "best_time_ms": 124600,
+      "best_time_raw": "2:04.600",
+      "source_session": "MT",
+      "perf_pct": 100.08
+    },
+    {
+      "driver_id": 285,
+      "team": "Cooper",
+      "best_time_ms": 133400,
+      "best_time_raw": "2:13.400",
+      "source_session": "MT",
+      "perf_pct": 107.149
+    },
+    {
+      "driver_id": 293,
+      "team": "Lotus",
+      "best_time_ms": 130400,
+      "best_time_raw": "2:10.400",
+      "source_session": "MT",
+      "perf_pct": 104.739
+    },
+    {
+      "driver_id": 294,
+      "team": "Ferrari",
+      "best_time_ms": 125600,
+      "best_time_raw": "2:05.600",
+      "source_session": "MT",
+      "perf_pct": 100.884
+    },
+    {
+      "driver_id": 299,
+      "team": "Cooper",
+      "best_time_ms": 125800,
+      "best_time_raw": "2:05.800",
+      "source_session": "MT",
+      "perf_pct": 101.044
+    },
+    {
+      "driver_id": 324,
+      "team": "Lotus",
+      "best_time_ms": 134600,
+      "best_time_raw": "2:14.600",
+      "source_session": "GRID",
+      "perf_pct": 108.112
+    }
+  ]
+}
